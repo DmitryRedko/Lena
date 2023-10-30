@@ -1,0 +1,331 @@
+Quantathon: set 1 by Suhova
+
+INTEREST RATE OPTIONS IN HULL-WHITE MODEL
+
+PARAMETERS OF HULL-WHITE MODEL:
+
+interest rate = 0.07
+sigma = 0.02
+lambda = 0.05
+initial time = 0
+
+quality = 200
+
+FORWARD CONTRACT ON SWAP IN INTEREST RATE MODEL
+
+swap parameters:
+
+notional = 1000
+period between payments = 0.25
+number of payments = 6
+rate = 0.07
+we pay float and receive fixed
+
+maturity = 1.5
+
+RISK REPORT: 
+
+price = -0.787518
+delta = -1138.43
+one percent gamma = -47.8663
+
+OPTION VALUES VERSUS SHORT RATE:
+
+ rate            option
+ 0.17           91.5163
+ 0.15            76.206
+ 0.13            59.425
+ 0.11           41.0718
+ 0.09           21.0391
+ 0.07         -0.787518
+ 0.05          -24.5292
+ 0.03          -50.3148
+ 0.01          -78.2809
+-0.01          -108.573
+-0.03          -141.344
+
+FORWARD CONTRACT ON SWAP IN INTEREST RATE MODEL
+
+swap parameters:
+
+notional = 1000
+period between payments = 0.25
+number of payments = 6
+rate = 0.07
+we pay fixed and receive float
+
+maturity = 1.5
+
+RISK REPORT: 
+
+price = -0.787518
+delta = -1138.43
+one percent gamma = -47.8663
+
+OPTION VALUES VERSUS SHORT RATE:
+
+ rate            option
+ 0.17           91.5163
+ 0.15            76.206
+ 0.13            59.425
+ 0.11           41.0718
+ 0.09           21.0391
+ 0.07         -0.787518
+ 0.05          -24.5292
+ 0.03          -50.3148
+ 0.01          -78.2809
+-0.01          -108.573
+-0.03          -141.344
+
+COLLAR IN INTEREST RATE MODEL
+
+cap parameters:
+
+notional = 1000
+period between payments = 0.25
+number of payments = 6
+rate = 0.077
+
+floor rate = 0.063
+
+RISK REPORT: 
+
+price = 0.487137
+delta = -834.995
+one percent gamma = 34.2297
+
+OPTION VALUES VERSUS SHORT RATE:
+
+ rate            option
+ 0.17           120.802
+ 0.15           96.2911
+ 0.13           71.0932
+ 0.11           45.3827
+ 0.09           20.3206
+ 0.07          0.487137
+ 0.05          -19.3041
+ 0.03          -46.1886
+ 0.01          -75.4486
+-0.01          -105.822
+-0.03          -137.098
+
+AMERICAN PUT ON FORWARD RATE AGREEMENT IN INTEREST RATE MODEL
+
+exercise  times:
+[0] = 0.125
+[1] = 0.25
+[2] = 0.375
+[3] = 0.5
+[4] = 0.625
+[5] = 0.75
+[6] = 0.875
+[7] = 1
+[8] = 1.125
+[9] = 1.25
+[10] = 1.375
+[11] = 1.5
+
+fixed rate = 0.07
+period for FRA = 0.25
+notional = 1000
+
+RISK REPORT: 
+
+price = 0
+delta = 0
+one percent gamma = 0
+
+OPTION VALUES VERSUS SHORT RATE:
+
+ rate            option
+ 0.17                 0
+ 0.15                 0
+ 0.13                 0
+ 0.11                 0
+ 0.09                 0
+ 0.07                 0
+ 0.05                 0
+ 0.03                 0
+ 0.01                 0
+-0.01                 0
+-0.03                 0
+
+AMERICAN SWAPTION IN INTEREST RATE MODEL
+
+exercise  times:
+[0] = 0.125
+[1] = 0.25
+[2] = 0.375
+[3] = 0.5
+[4] = 0.625
+[5] = 0.75
+[6] = 0.875
+[7] = 1
+[8] = 1.125
+[9] = 1.25
+[10] = 1.375
+[11] = 1.5
+
+swap parameters:
+
+notional = 1000
+period between payments = 0.25
+number of payments = 6
+rate = 0.07
+we pay float and receive fixed
+
+RISK REPORT: 
+
+price = 0
+delta = 0
+one percent gamma = 0
+
+OPTION VALUES VERSUS SHORT RATE:
+
+ rate            option
+ 0.17                 0
+ 0.15                 0
+ 0.13                 0
+ 0.11                 0
+ 0.09                 0
+ 0.07                 0
+ 0.05                 0
+ 0.03                 0
+ 0.01                 0
+-0.01                 0
+-0.03                 0
+
+AMERICAN SWAPTION IN INTEREST RATE MODEL
+
+exercise  times:
+[0] = 0.125
+[1] = 0.25
+[2] = 0.375
+[3] = 0.5
+[4] = 0.625
+[5] = 0.75
+[6] = 0.875
+[7] = 1
+[8] = 1.125
+[9] = 1.25
+[10] = 1.375
+[11] = 1.5
+
+swap parameters:
+
+notional = 1000
+period between payments = 0.25
+number of payments = 6
+rate = 0.07
+we pay fixed and receive float
+
+RISK REPORT: 
+
+price = 0
+delta = 0
+one percent gamma = 0
+
+OPTION VALUES VERSUS SHORT RATE:
+
+ rate            option
+ 0.17                 0
+ 0.15                 0
+ 0.13                 0
+ 0.11                 0
+ 0.09                 0
+ 0.07                 0
+ 0.05                 0
+ 0.03                 0
+ 0.01                 0
+-0.01                 0
+-0.03                 0
+
+PUTABLE AND CALLABLE BOND IN INTEREST RATE MODEL
+
+bond parameters:
+
+notional = 1000
+period between payments = 0.25
+number of payments = 6
+rate = 0.07
+
+redemption price for put = 0.95
+repurchase price for call = 1.05
+
+RISK REPORT: 
+
+price = 0
+delta = 0
+one percent gamma = 0
+
+OPTION VALUES VERSUS SHORT RATE:
+
+ rate            option
+ 0.17                 0
+ 0.15                 0
+ 0.13                 0
+ 0.11                 0
+ 0.09                 0
+ 0.07                 0
+ 0.05                 0
+ 0.03                 0
+ 0.01                 0
+-0.01                 0
+-0.03                 0
+
+FUTURES PRICE OF CHEAPEST TO DELIVER COUPON BOND IN INTEREST RATE MODEL
+
+maturity of futures contract = 0.5
+number of futures times = 20
+
+bond index = 0
+notional = 1000
+coupon rate = 0.07
+period = 0.25
+number of payments = 4
+
+bond index = 1
+notional = 1000
+coupon rate = 0.07
+period = 0.25
+number of payments = 5
+
+bond index = 2
+notional = 1000
+coupon rate = 0.07
+period = 0.25
+number of payments = 6
+
+bond index = 3
+notional = 1000
+coupon rate = 0.07
+period = 0.25
+number of payments = 7
+
+bond index = 4
+notional = 1000
+coupon rate = 0.07
+period = 0.25
+number of payments = 8
+
+RISK REPORT: 
+
+price = 0
+delta = 0
+one percent gamma = 0
+
+OPTION VALUES VERSUS SHORT RATE:
+
+ rate            option
+ 0.17                 0
+ 0.15                 0
+ 0.13                 0
+ 0.11                 0
+ 0.09                 0
+ 0.07                 0
+ 0.05                 0
+ 0.03                 0
+ 0.01                 0
+-0.01                 0
+-0.03                 0
+

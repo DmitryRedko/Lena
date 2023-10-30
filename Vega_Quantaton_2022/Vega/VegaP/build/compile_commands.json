@@ -1,0 +1,61 @@
+[
+{
+  "directory": "/home/elena/Рабочий стол/Vega/VegaP/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o test/CMakeFiles/test_all.dir/Src/Data.cpp.o -c \"/home/elena/Рабочий стол/Vega/VegaP/test/Src/Data.cpp\"",
+  "file": "/home/elena/Рабочий стол/Vega/VegaP/test/Src/Data.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Vega/VegaP/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o test/CMakeFiles/test_all.dir/Src/Main.cpp.o -c \"/home/elena/Рабочий стол/Vega/VegaP/test/Src/Main.cpp\"",
+  "file": "/home/elena/Рабочий стол/Vega/VegaP/test/Src/Main.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Vega/VegaP/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o test/CMakeFiles/test_all.dir/Src/Print.cpp.o -c \"/home/elena/Рабочий стол/Vega/VegaP/test/Src/Print.cpp\"",
+  "file": "/home/elena/Рабочий стол/Vega/VegaP/test/Src/Print.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Vega/VegaP/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o setup/CMakeFiles/setup.dir/Src/test_setup.cpp.o -c \"/home/elena/Рабочий стол/Vega/VegaP/setup/Src/test_setup.cpp\"",
+  "file": "/home/elena/Рабочий стол/Vega/VegaP/setup/Src/test_setup.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Vega/VegaP/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o prep1/CMakeFiles/prep1.dir/Src/prep1.cpp.o -c \"/home/elena/Рабочий стол/Vega/VegaP/prep1/Src/prep1.cpp\"",
+  "file": "/home/elena/Рабочий стол/Vega/VegaP/prep1/Src/prep1.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Vega/VegaP/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o prep1/CMakeFiles/prep1.dir/Src/test_prep1.cpp.o -c \"/home/elena/Рабочий стол/Vega/VegaP/prep1/Src/test_prep1.cpp\"",
+  "file": "/home/elena/Рабочий стол/Vega/VegaP/prep1/Src/test_prep1.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Vega/VegaP/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o prep2/CMakeFiles/prep2.dir/Src/prep2.cpp.o -c \"/home/elena/Рабочий стол/Vega/VegaP/prep2/Src/prep2.cpp\"",
+  "file": "/home/elena/Рабочий стол/Vega/VegaP/prep2/Src/prep2.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Vega/VegaP/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o prep2/CMakeFiles/prep2.dir/Src/test_prep2.cpp.o -c \"/home/elena/Рабочий стол/Vega/VegaP/prep2/Src/test_prep2.cpp\"",
+  "file": "/home/elena/Рабочий стол/Vega/VegaP/prep2/Src/test_prep2.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Vega/VegaP/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o prepExam/CMakeFiles/prepExam.dir/Src/prepExam.cpp.o -c \"/home/elena/Рабочий стол/Vega/VegaP/prepExam/Src/prepExam.cpp\"",
+  "file": "/home/elena/Рабочий стол/Vega/VegaP/prepExam/Src/prepExam.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Vega/VegaP/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o prepExam/CMakeFiles/prepExam.dir/Src/test_prepExam.cpp.o -c \"/home/elena/Рабочий стол/Vega/VegaP/prepExam/Src/test_prepExam.cpp\"",
+  "file": "/home/elena/Рабочий стол/Vega/VegaP/prepExam/Src/test_prepExam.cpp"
+}
+]

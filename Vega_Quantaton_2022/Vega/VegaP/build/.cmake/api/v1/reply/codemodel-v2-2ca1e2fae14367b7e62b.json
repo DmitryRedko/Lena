@@ -1,0 +1,215 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "test",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						4,
+						9
+					]
+				},
+				{
+					"build" : "setup",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "setup",
+					"targetIndexes" : 
+					[
+						3,
+						8
+					]
+				},
+				{
+					"build" : "prep1",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "prep1",
+					"targetIndexes" : 
+					[
+						0,
+						5
+					]
+				},
+				{
+					"build" : "prep2",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "prep2",
+					"targetIndexes" : 
+					[
+						1,
+						6
+					]
+				},
+				{
+					"build" : "prepExam",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "prepExam",
+					"targetIndexes" : 
+					[
+						2,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"name" : "FC",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "doc-prep1::@d26fd06c97204c6ce46f",
+					"jsonFile" : "target-doc-prep1-Debug-e21b8e52e0484bad2280.json",
+					"name" : "doc-prep1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "doc-prep2::@6e08e1fa31bffb29bb26",
+					"jsonFile" : "target-doc-prep2-Debug-74275760a6e1ec2d32cb.json",
+					"name" : "doc-prep2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "doc-prepExam::@066081aabc638035853f",
+					"jsonFile" : "target-doc-prepExam-Debug-f43b460f294de02cb3e5.json",
+					"name" : "doc-prepExam",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "doc-setup::@639fc370f71c08ba6077",
+					"jsonFile" : "target-doc-setup-Debug-ef6a301a425e5afc4016.json",
+					"name" : "doc-setup",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "doc-test_all::@36f028580bb02cc8272a",
+					"jsonFile" : "target-doc-test_all-Debug-e9a26173fd49f19e5eff.json",
+					"name" : "doc-test_all",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "prep1::@d26fd06c97204c6ce46f",
+					"jsonFile" : "target-prep1-Debug-abae3c0a0f9cde83b23b.json",
+					"name" : "prep1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "prep2::@6e08e1fa31bffb29bb26",
+					"jsonFile" : "target-prep2-Debug-7d9d3fe062457947cbc1.json",
+					"name" : "prep2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "prepExam::@066081aabc638035853f",
+					"jsonFile" : "target-prepExam-Debug-65367c3f4011eace7157.json",
+					"name" : "prepExam",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "setup::@639fc370f71c08ba6077",
+					"jsonFile" : "target-setup-Debug-af421d13844768ec136e.json",
+					"name" : "setup",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "test_all::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test_all-Debug-391c8add219667c1a32f.json",
+					"name" : "test_all",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/elena/Рабочий стол/Vega/VegaP/build",
+		"source" : "/home/elena/Рабочий стол/Vega/VegaP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

@@ -1,0 +1,4 @@
+<map id="test::Swap" name="test::Swap">
+<area shape="rect" id="node1" title="Interest rate swap." alt="" coords="19,80,110,107"/>
+<area shape="rect" id="node2" href="$classtest_1_1CashFlow.html" title="Cash flow at fixed rate over regular time intervals." alt="" coords="5,5,124,32"/>
+</map>

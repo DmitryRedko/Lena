@@ -1,0 +1,135 @@
+Exam for Vega-Prep by SuhovaElena
+
+DATA CURVES FOR FINANCIAL MODELS
+
+COST-OF-CARRY RATE
+
+spot = 100
+initial time = 0.75
+maturity = 1.25
+forward price = 103.562
+
+cost-of-carry = 0.07
+
+FORWARD PRICES FOR EXCHANGE RATES
+
+initial time = 1
+spot FX rate = 100
+domestic interest rate = 0.12
+foreign interest rate = 0.05
+
+VALUES VERSUS TIME:
+
+    time           value
+       1             100
+ 1.04878         100.342
+ 1.09756         100.685
+ 1.14634          101.03
+ 1.19512         101.375
+  1.2439         101.722
+ 1.29268          102.07
+ 1.34146         102.419
+ 1.39024         102.769
+ 1.43902         103.121
+  1.4878         103.474
+
+SVENSSON YIELD CURVE
+
+c0 = 0.02
+c1 = 0.04
+c2 = 0.06
+c3 = 0.03
+lambda 1 = 0.05
+lambda 2 = 0.07
+initial time = 1.5
+
+VALUES VERSUS TIME:
+
+    time           value
+     1.5            0.06
+  1.9878       0.0607367
+ 2.47561       0.0614357
+ 2.96341       0.0620981
+ 3.45122       0.0627254
+ 3.93902       0.0633188
+ 4.42683       0.0638794
+ 4.91463       0.0644085
+ 5.40244       0.0649071
+ 5.89024       0.0653764
+ 6.37805       0.0658175
+
+STATIONARY IMPLIED VOLATILITY IN BLACK MODEL
+
+sigma = 0.2
+lambda = 0.05
+initial time = 0.75
+
+VALUES VERSUS TIME:
+
+    time           value
+    0.75             0.2
+0.847561        0.199513
+0.945122        0.199028
+ 1.04268        0.198545
+ 1.14024        0.198065
+  1.2378        0.197586
+ 1.33537        0.197109
+ 1.43293        0.196633
+ 1.53049         0.19616
+ 1.62805        0.195689
+ 1.72561         0.19522
+
+FORWARD LIBOR RATES
+
+LIBOR period = 0.25
+initial time = 1.5
+
+VALUES VERSUS TIME:
+
+    time           value
+     1.5               4
+  1.9878         3.85723
+ 2.47561         3.72135
+ 2.96341         3.59199
+ 3.45122         3.46878
+ 3.93902          3.3514
+ 4.42683         3.23954
+ 4.91463         3.13289
+ 5.40244         3.03118
+ 5.89024         2.93414
+ 6.37805         2.84153
+
+FORWARD PRICES  BY LINEAR INTERPOLATION OF COST-OF-CARRY RATES
+
+spot = 100
+initial time = 1
+
+Input forward prices:
+
+      time           value      
+       1.5          103.37      
+         2         106.485      
+       2.5         109.355      
+         3         111.992      
+       3.5         114.409      
+         4         116.617      
+       4.5         118.632      
+         5         120.467      
+       5.5         122.135      
+         6         123.648      
+
+VALUES VERSUS TIME:
+
+    time           value
+       1               0
+  1.4878               0
+ 1.97561               0
+ 2.46341               0
+ 2.95122               0
+ 3.43902               0
+ 3.92683               0
+ 4.41463               0
+ 4.90244               0
+ 5.39024               0
+ 5.87805               0
+

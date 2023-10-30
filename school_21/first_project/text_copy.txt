@@ -1,0 +1,16 @@
+Hello, this is a test text for the cat command.
+
+    You     can     use cat to display the contents of this file.
+This is the second line of the test text.
+
+
+And here is the third line.
+
+
+
+        You can also use cat to concatenate files together.
+This is the end of the test text.
+
+1
+2
+3

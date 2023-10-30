@@ -1,0 +1,211 @@
+[
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o cfl/CMakeFiles/cfl.dir/Src/Brownian.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/Brownian.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/Brownian.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o cfl/CMakeFiles/cfl.dir/Src/Data.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/Data.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/Data.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o cfl/CMakeFiles/cfl.dir/Src/Error.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/Error.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/Error.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o cfl/CMakeFiles/cfl.dir/Src/Function.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/Function.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/Function.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o cfl/CMakeFiles/cfl.dir/Src/GaussRollback.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/GaussRollback.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/GaussRollback.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o cfl/CMakeFiles/cfl.dir/Src/HullWhiteModel.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/HullWhiteModel.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/HullWhiteModel.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o cfl/CMakeFiles/cfl.dir/Src/Ind.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/Ind.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/Ind.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o cfl/CMakeFiles/cfl.dir/Src/InterestRateModel.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/InterestRateModel.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/InterestRateModel.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o cfl/CMakeFiles/cfl.dir/Src/Interp.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/Interp.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/Interp.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o cfl/CMakeFiles/cfl.dir/Src/Model.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/Model.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/Model.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o cfl/CMakeFiles/cfl.dir/Src/MultiFunction.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/MultiFunction.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/MultiFunction.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o cfl/CMakeFiles/cfl.dir/Src/Similar.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/Similar.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/Similar.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o cfl/CMakeFiles/cfl.dir/Src/Slice.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/Slice.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/cfl/Src/Slice.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o test/CMakeFiles/test_all.dir/Src/Data.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/test/Src/Data.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/test/Src/Data.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o test/CMakeFiles/test_all.dir/Src/HullWhite.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/test/Src/HullWhite.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/test/Src/HullWhite.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o test/CMakeFiles/test_all.dir/Src/Main.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/test/Src/Main.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/test/Src/Main.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o test/CMakeFiles/test_all.dir/Src/Numeric.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/test/Src/Numeric.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/test/Src/Numeric.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o test/CMakeFiles/test_all.dir/Src/Print.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/test/Src/Print.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/test/Src/Print.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o test/CMakeFiles/test_all.dir/Src/Slice.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/test/Src/Slice.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/test/Src/Slice.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o quantExamples/CMakeFiles/quantExamples.dir/Src/InterestRateStdAutoCap.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExamples/Src/InterestRateStdAutoCap.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExamples/Src/InterestRateStdAutoCap.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o quantExamples/CMakeFiles/quantExamples.dir/Src/InterestRateStdCancellableCollar.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExamples/Src/InterestRateStdCancellableCollar.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExamples/Src/InterestRateStdCancellableCollar.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o quantExamples/CMakeFiles/quantExamples.dir/Src/InterestRateStdCap.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExamples/Src/InterestRateStdCap.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExamples/Src/InterestRateStdCap.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o quantExamples/CMakeFiles/quantExamples.dir/Src/InterestRateStdDownOutCap.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExamples/Src/InterestRateStdDownOutCap.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExamples/Src/InterestRateStdDownOutCap.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o quantExamples/CMakeFiles/quantExamples.dir/Src/InterestRateStdDropLockSwap.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExamples/Src/InterestRateStdDropLockSwap.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExamples/Src/InterestRateStdDropLockSwap.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o quantExamples/CMakeFiles/quantExamples.dir/Src/InterestRateStdFuturesOnLibor.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExamples/Src/InterestRateStdFuturesOnLibor.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExamples/Src/InterestRateStdFuturesOnLibor.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o quantExamples/CMakeFiles/quantExamples.dir/Src/InterestRateStdSwap.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExamples/Src/InterestRateStdSwap.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExamples/Src/InterestRateStdSwap.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o quantExamples/CMakeFiles/quantExamples.dir/Src/InterestRateStdSwaption.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExamples/Src/InterestRateStdSwaption.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExamples/Src/InterestRateStdSwaption.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o quantExamples/CMakeFiles/quantExamples.dir/Src/test_quantExamples.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExamples/Src/test_quantExamples.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExamples/Src/test_quantExamples.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o quantExam/CMakeFiles/quantExam.dir/Src/americanPutOnFutures.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExam/Src/americanPutOnFutures.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExam/Src/americanPutOnFutures.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o quantExam/CMakeFiles/quantExam.dir/Src/callableCapptedResetFloater.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExam/Src/callableCapptedResetFloater.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExam/Src/callableCapptedResetFloater.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o quantExam/CMakeFiles/quantExam.dir/Src/cancelSwapArrears.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExam/Src/cancelSwapArrears.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExam/Src/cancelSwapArrears.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o quantExam/CMakeFiles/quantExam.dir/Src/doubleUpSwap.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExam/Src/doubleUpSwap.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExam/Src/doubleUpSwap.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o quantExam/CMakeFiles/quantExam.dir/Src/resetCouponPutBond.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExam/Src/resetCouponPutBond.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExam/Src/resetCouponPutBond.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o quantExam/CMakeFiles/quantExam.dir/Src/test_quantExam.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExam/Src/test_quantExam.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExam/Src/test_quantExam.cpp"
+},
+
+{
+  "directory": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/build",
+  "command": "/usr/bin/g++   -I../  -Wall -g   -std=c++17 -o quantExam/CMakeFiles/quantExam.dir/Src/upOutFloor.cpp.o -c \"/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExam/Src/upOutFloor.cpp\"",
+  "file": "/home/elena/Рабочий стол/Quantaton/VegaQ-Student-Pack/VegaQ/quantExam/Src/upOutFloor.cpp"
+}
+]

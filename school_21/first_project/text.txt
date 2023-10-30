@@ -1,0 +1,6 @@
+Hello, this is a test text for the cat command.
+
+	You	can	use cat to display the contents of this file.
+
+
+Hello, This Is A Test Text.
